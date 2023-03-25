@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contacts-app/static/css/main.b643c0a0.css",
+    "main.js": "/Contacts-app/static/js/main.8348c6d6.js",
+    "static/js/787.14fe134e.chunk.js": "/Contacts-app/static/js/787.14fe134e.chunk.js",
+    "static/media/hero-background.webp": "/Contacts-app/static/media/hero-background.3ec9ae1fb37a08a313ea.webp",
+    "index.html": "/Contacts-app/index.html",
+    "main.b643c0a0.css.map": "/Contacts-app/static/css/main.b643c0a0.css.map",
+    "main.8348c6d6.js.map": "/Contacts-app/static/js/main.8348c6d6.js.map",
+    "787.14fe134e.chunk.js.map": "/Contacts-app/static/js/787.14fe134e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b643c0a0.css",
+    "static/js/main.8348c6d6.js"
+  ]
+}
